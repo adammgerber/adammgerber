@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 20 October 2022
+From: 11 September 2022 - To: 21 October 2022
 
 Total Time: 50 hrs 25 mins
 
-Swift        16 hrs 42 mins  ████████▒░░░░░░░░░░░░░░░░   33.15 %
+Swift        16 hrs 42 mins  ████████▒░░░░░░░░░░░░░░░░   33.16 %
 CSS          10 hrs 59 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
 JavaScript   10 hrs 55 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
 HTML         7 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
