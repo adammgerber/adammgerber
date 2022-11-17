@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-📊 &nbsp;**This month I spent my time on**
+<!--📊 &nbsp;**This month I spent my time on**-->
 
 <!--START_SECTION:waka-->
 
