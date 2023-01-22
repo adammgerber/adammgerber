@@ -1,5 +1,5 @@
 
-![ezcv logo](https://raw.githubusercontent.com/adammgerber/images/main/Welcome.png)
+<!-- ![ezcv logo](https://raw.githubusercontent.com/adammgerber/images/main/Welcome.png) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammgerber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
